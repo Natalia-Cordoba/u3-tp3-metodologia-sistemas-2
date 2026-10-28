@@ -1,0 +1,6 @@
+#requests==2.19.0
+#flask==0.12
+
+# versión actualizada
+requests>=2.32.0
+flask>=3.0.0
